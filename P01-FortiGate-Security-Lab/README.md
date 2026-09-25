@@ -13,9 +13,8 @@
 
 ---
 
-> **Seguridad de Redes · GNS3 · FortiGate**
-
-> **Estudiante:** Fred Sneyder Castillo Apolinar  **Matrícula:** 2025-2175  **Docente:** Jonatan Rondon  
+> **Seguridad de Redes · GNS3 · FortiGate** |
+> **Estudiante:** Fred Sneyder Castillo Apolinar |  **Matrícula:** 2025-2175 | **Docente:** Jonatan Rondon  |
 
 ---
 
