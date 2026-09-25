@@ -69,7 +69,7 @@ Los tres últimos componentes son **contenedores utilizados para simular los equ
 
 ## 🔐 Flujo de seguridad
 
-![Flujo de tráfico](images/topology/traffic-flow.png)
+![Flujo de tráfico](images/topology/traffic-flow.svg)
 
 El diseño fuerza a que el tráfico entre segmentos atraviese el FortiGate. El WEB Server y el DB Server utilizan puertos físicos separados del FortiGate, evitando que una comunicación entre ellos pueda escapar del control de las políticas mediante un mismo dominio de capa 2.
 
