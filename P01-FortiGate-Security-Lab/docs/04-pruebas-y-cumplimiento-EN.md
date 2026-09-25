@@ -67,13 +67,3 @@ The `10.21.75.10/25` address and `10.21.75.1` gateway confirm the expected assig
 ![Switch security](../images/network/switch-security.png)
 
 ![Switch ports](../images/network/switch-ports.png)
-
-## 4.6 Final pre-submission review
-
-Before pushing the project to GitHub:
-
-- replace `VIDEO_URL` with the final video link;
-- confirm all referenced screenshots exist using the exact filenames;
-- add the real switch running-config;
-- add the FortiGate configuration export after removing sensitive secrets;
-- verify the submission file exactly matches the instructor's required filename format.
