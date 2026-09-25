@@ -57,7 +57,7 @@ Ubuntu 22.04 Docker container with MariaDB. The `labdb` database contains the la
 
 ## 2.5 Traffic flow
 
-![Traffic flow](../images/topology/traffic-flow.png)
+![Traffic flow](../images/topology/traffic-flow.svg)
 
 The main relationships are:
 
