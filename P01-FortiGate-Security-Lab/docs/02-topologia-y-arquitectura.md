@@ -41,17 +41,18 @@ Los puertos no utilizados fueron deshabilitados como parte del hardening básico
 
 Contenedor Docker basado en Debian Bookworm Slim con `firefox-esr`. Se utiliza para las pruebas desde un navegador real y mantiene una IP estática deliberada (`10.21.75.110/25`) para facilitar la trazabilidad de logs.
 
+![Browser-PC](../images/containers/browser-pc.png)
+
 ### WEB-SERVER-LAB
 
 Contenedor Docker basado en Ubuntu 22.04 con Apache, PHP y `php-mysqli`. El servicio HTTPS utiliza un certificado autofirmado generado durante la construcción de la imagen.
 
+![WEB-SERVER-LAB](../images/containers/web-server.png)
+
+
 ### DB-SERVER-LAB
 
 Contenedor Docker basado en Ubuntu 22.04 con MariaDB. La base `labdb` contiene la tabla `users` con los registros de laboratorio y el usuario `webuser` está restringido al origen del WEB Server.
-
-![Browser-PC](../images/containers/browser-pc.png)
-
-![WEB-SERVER-LAB](../images/containers/web-server.png)
 
 ![DB-SERVER-LAB](../images/containers/db-server.png)
 
