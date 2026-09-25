@@ -4,7 +4,7 @@
 
 ![GNS3 topology](../images/topology/gns3-topology.png)
 
-![Logical diagram](../images/topology/topology.png)
+![Logical diagram](../images/topology/topology.svg)
 
 The topology separates the Users, WEB and DB segments through dedicated FortiGate interfaces. This ensures that WEB → DB traffic is processed by a real firewall policy instead of being switched directly inside the same Layer-2 domain.
 
