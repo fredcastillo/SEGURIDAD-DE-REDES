@@ -58,7 +58,7 @@ Contenedor Docker basado en Ubuntu 22.04 con MariaDB. La base `labdb` contiene l
 
 ## 2.5 Flujo de tráfico
 
-![Flujo de tráfico](../images/topology/traffic-flow.png)
+![Flujo de tráfico](../images/topology/traffic-flow.svg)
 
 Las relaciones principales son:
 
