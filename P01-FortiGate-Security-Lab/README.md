@@ -1,15 +1,21 @@
-# P01 — FortiGate Security Lab
+🇪🇸 **Español** | 🇬🇧 [English](README-EN.md)
 
-![Security Networks](https://img.shields.io/badge/Subject-Network%20Security-1f6feb?style=flat-square)
-![Platform](https://img.shields.io/badge/Lab-GNS3-7d5fff?style=flat-square)
-![Firewall](https://img.shields.io/badge/Firewall-FortiGate-e11d48?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Documented%20Lab-success?style=flat-square)
+<h1 align="center">P01 — Laboratorio de Seguridad FortiGate</h1>
+
+<p align="center">
+  <a href="https://github.com/fredcastillo/ADDS-Lab"><img src="https://img.shields.io/badge/Laboratorio-GNS3-7d5fff?style=for-the-badge" alt="GNS3"></a>
+  <a href="https://github.com/fredcastillo/ADDS-Lab"><img src="https://img.shields.io/badge/Firewall-FortiGate-e11d48?style=for-the-badge" alt="FortiGate"></a>
+  <a href="https://github.com/fredcastillo/ADDS-Lab"><img src="https://img.shields.io/badge/Red-Segmentación%20VLAN-1f6feb?style=for-the-badge" alt="VLAN"></a>
+  <a href="https://github.com/fredcastillo/ADDS-Lab"><img src="https://img.shields.io/badge/Controles-NAT%20%7C%20ACL%20%7C%20DoS-FF6F00?style=for-the-badge" alt="Controles"></a>
+  <a href="https://github.com/fredcastillo/ADDS-Lab"><img src="https://img.shields.io/badge/Filtrado-Bloqueo%20de%20.exe-9C27B0?style=for-the-badge" alt="Filtrado de archivos"></a>
+  <a href="https://github.com/fredcastillo/ADDS-Lab"><img src="https://img.shields.io/badge/Estado-Laboratorio%20Documentado-brightgreen?style=for-the-badge" alt="Estado"></a>
+</p>
+
+---
 
 > **Seguridad de Redes · GNS3 · FortiGate**
 
-**Estudiante:** Fred Sneyder Castillo Apolinar  
-**Matrícula:** 2025-2175  
-**Docente:** Jonatan Rondon  
+> **Estudiante:** Fred Sneyder Castillo Apolinar  **Matrícula:** 2025-2175  **Docente:** Jonatan Rondon  
 
 ---
 
@@ -17,11 +23,9 @@
 
 **[▶ Ver video de demostración](VIDEO_URL)**
 
-> Reemplazar `VIDEO_URL` por el enlace final de YouTube o OneDrive institucional. El video debe respetar el máximo de 10 minutos y mostrar fecha, hora, rostro y voz del estudiante.
-
 ---
 
-## 🎯 Propósito del laboratorio
+## Propósito del laboratorio
 
 Este laboratorio implementa una infraestructura de **Seguridad de Redes** en GNS3 utilizando FortiGate como punto central de control entre un segmento de usuarios, un servidor web y un servidor de base de datos.
 
@@ -40,7 +44,7 @@ El objetivo es demostrar controles de seguridad funcionales, entre ellos:
 
 ## 🏗️ Topología
 
-![Topología principal](images/topology/topology.png)
+![Topología principal](images/topology/gns3-topology.png)
 
 La arquitectura utiliza un **FortiGate-VM64-KVM** como punto de control entre tres dominios principales:
 
@@ -138,23 +142,13 @@ images/
 └── tests/
 ```
 
-Los documentos ya contienen las rutas Markdown de cada evidencia. **No necesitas editar el MD cuando agregues una captura**, siempre que uses exactamente el nombre y la carpeta indicados: GitHub la renderizará automáticamente.
-
 ---
 
-## 📦 Entrega
+#### 👨‍💻 Autor
 
-Archivo de entrega solicitado:
+**Fred Castillo**  
+*Estudiante de Tecnólogo en Seguridad Informática*  
 
-`submission/FredSneyderCastilloApolinar_2025-2175_P1.txt`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fred%20Castillo-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fredcastillo11/)
+[![GitHub](https://img.shields.io/badge/GitHub-fredcastillo-100000?style=for-the-badge&logo=github)](https://github.com/fredcastillo)
 
-El archivo contiene el enlace del repositorio y el enlace del video final.
-
----
-
-## 👤 Autor
-
-**Fred Sneyder Castillo Apolinar**  
-Matrícula **2025-2175**  
-Materia **Seguridad de Redes**  
-Docente **Jonatan Rondon**
