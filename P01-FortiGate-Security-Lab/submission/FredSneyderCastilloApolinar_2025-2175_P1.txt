@@ -4,7 +4,7 @@ Materia: Seguridad de Redes
 Maestro: Jonatan Rondon
 
 Repositorio:
-[INSERTAR ENLACE DEL REPOSITORIO]
+[https://github.com/fredcastillo/SEGURIDAD-DE-REDES/tree/main/P01-FortiGate-Security-Lab]
 
 Video:
 [INSERTAR ENLACE DEL VIDEO]
