@@ -75,7 +75,7 @@ El diseño fuerza a que el tráfico entre segmentos atraviese el FortiGate. El W
 
 ---
 
-## ✅ Controles implementados y demostrados
+## Controles implementados y demostrados
 
 | Control | Evidencia principal |
 |---|---|
