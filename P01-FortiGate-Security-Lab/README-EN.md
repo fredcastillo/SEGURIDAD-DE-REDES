@@ -1,23 +1,22 @@
-# P01 — FortiGate Security Lab
+<h1 align="center">P01 — FortiGate Security Lab</h1>
 
-![Security Networks](https://img.shields.io/badge/Subject-Network%20Security-1f6feb?style=flat-square)
-![Platform](https://img.shields.io/badge/Lab-GNS3-7d5fff?style=flat-square)
-![Firewall](https://img.shields.io/badge/Firewall-FortiGate-e11d48?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Documented%20Lab-success?style=flat-square)
+<p align="center">
+  <a href="https://github.com/fredcastillo/ADDS-Lab"><img src="https://img.shields.io/badge/Lab-GNS3-7d5fff?style=for-the-badge" alt="GNS3"></a>
+  <a href="https://github.com/fredcastillo/ADDS-Lab"><img src="https://img.shields.io/badge/Firewall-FortiGate-e11d48?style=for-the-badge" alt="FortiGate"></a>
+  <a href="https://github.com/fredcastillo/ADDS-Lab"><img src="https://img.shields.io/badge/Network-VLAN%20Segmentation-1f6feb?style=for-the-badge" alt="VLAN"></a>
+  <a href="https://github.com/fredcastillo/ADDS-Lab"><img src="https://img.shields.io/badge/Controls-NAT%20%7C%20ACL%20%7C%20DoS-FF6F00?style=for-the-badge" alt="Controls"></a>
+  <a href="https://github.com/fredcastillo/ADDS-Lab"><img src="https://img.shields.io/badge/Filtering-.exe%20File%20Block-9C27B0?style=for-the-badge" alt="File Filter"></a>
+  <a href="https://github.com/fredcastillo/ADDS-Lab"><img src="https://img.shields.io/badge/Status-Documented%20Lab-brightgreen?style=for-the-badge" alt="Status"></a>
+</p>
 
-> **Network Security · GNS3 · FortiGate**
-
-**Student:** Fred Sneyder Castillo Apolinar  
-**Student ID:** 2025-2175  
-**Instructor:** Jonatan Rondon  
+> **Network Security · GNS3 · FortiGate** |
+> **Student:** Fred Sneyder Castillo Apolinar | **Student ID:** 2025-2175 | **Instructor:** Jonatan Rondon  |
 
 ---
 
 ## 🎥 Demonstration Video
 
 **[▶ Watch demonstration video](VIDEO_URL)**
-
-> Replace `VIDEO_URL` with the final YouTube or institutional OneDrive link. The video must be no longer than 10 minutes and must show the date, time, student's face and voice.
 
 ---
 
@@ -40,7 +39,7 @@ The goal is to demonstrate functional security controls, including:
 
 ## 🏗️ Topology
 
-![Main topology](images/topology/topology.png)
+![Main topology](images/topology/gns3-topology.png)
 
 The architecture uses a **FortiGate-VM64-KVM** as the enforcement point between three main domains:
 
@@ -133,22 +132,15 @@ images/
 ├── containers/
 └── tests/
 ```
-
-The Markdown documents already contain the image paths for each evidence item. **You do not need to edit the Markdown when you add a screenshot**, provided that you use exactly the indicated filename and folder; GitHub will render it automatically.
-
 ---
 
-## 📦 Submission
+## 👨‍💻 Author
 
-Required submission file:
+**Fred Castillo**  
+*Information Security Technologist Student*  
+*Aspiring Red Team | Offensive Security*
 
-`submission/FredSneyderCastilloApolinar_2025-2175_P1.txt`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fred%20Castillo-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fredcastillo11/)
+[![GitHub](https://img.shields.io/badge/GitHub-fredcastillo-100000?style=for-the-badge&logo=github)](https://github.com/fredcastillo)
 
 ---
-
-## 👤 Author
-
-**Fred Sneyder Castillo Apolinar**  
-Student ID **2025-2175**  
-Course **Network Security**  
-Instructor **Jonatan Rondon**
