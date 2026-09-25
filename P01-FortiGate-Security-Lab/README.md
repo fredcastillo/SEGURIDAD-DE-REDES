@@ -25,7 +25,7 @@ La topología utiliza un FortiGate como punto central de control entre los segme
 
 ## 🏗️ Topología
 
-![Topología del laboratorio](images/topology/topology.svg)
+![Topología del laboratorio](images/topology/gns3-topology.png)
 
 Componentes principales:
 
