@@ -2,10 +2,7 @@
 
 ## Topology
 
-> **[INSERT FINAL DIAGRAM]** `images/topology/topology.png`  
-> Final topology PNG.
-
-![Topology](../images/topology/topology.svg)
+![Topology](../images/topology/gns3-topology.png)
 
 ### Components
 
