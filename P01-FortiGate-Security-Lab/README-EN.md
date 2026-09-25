@@ -65,7 +65,7 @@ The last three components are **containers used to simulate the endpoints and se
 
 ## 🔐 Security Flow
 
-![Traffic flow](images/topology/traffic-flow.png)
+![Traffic flow](images/topology/traffic-flow.svg)
 
 The design forces inter-segment traffic through FortiGate. The WEB Server and DB Server use separate FortiGate physical ports, preventing direct Layer-2 communication that could bypass firewall policy enforcement.
 
