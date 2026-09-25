@@ -67,13 +67,3 @@ La dirección `10.21.75.10/25` y el gateway `10.21.75.1` confirman la asignació
 ![Switch security](../images/network/switch-security.png)
 
 ![Switch ports](../images/network/switch-ports.png)
-
-## 4.6 Revisión final antes de la entrega
-
-Antes de subir el proyecto a GitHub:
-
-- reemplazar `VIDEO_URL` por el enlace final del video;
-- confirmar que todas las capturas referenciadas existen con el nombre exacto;
-- añadir el running-config real del switch;
-- añadir el export de configuración del FortiGate después de retirar cualquier secreto sensible;
-- verificar que el archivo de entrega tenga exactamente el formato solicitado por el docente.
